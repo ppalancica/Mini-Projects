@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Start...")
 
+SortTests.testBubbleSort()
+
+print("End...")
